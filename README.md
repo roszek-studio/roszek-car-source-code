@@ -1,2 +1,2 @@
 # roszek-car-source-code
-for more: roszekstudio.pl/roszek-car
+More about the project: roszekstudio.pl/roszek-car
